@@ -1,6 +1,7 @@
 {
   "name": "docs-template",
   "type": "module",
+  "description": "A modern documentation template built with Nuxt 3 and shadcn-docs-nuxt.",
   "version": "1.0.0",
   "private": true,
   "scripts": {
